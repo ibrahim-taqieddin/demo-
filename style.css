@@ -1,0 +1,71 @@
+ul li {
+   list-style: none;
+   display: inline;
+   padding: 35px;
+   margin: 10px;
+}
+
+header ul li button {
+  
+    padding: 10px  50px ; 
+    margin: 10px  ;
+}
+
+     .login{
+        color: blue;
+        }
+
+       #region{
+color: rgb(249, 11, 225);
+
+       } 
+
+     .zarqa {
+        color: rgb(30, 30, 165);
+     }
+
+     .Amman{
+        color: rgb(6, 135, 47);
+     }
+
+     .irbid{
+         color: rgba(143, 20, 20, 0.426);
+     }
+     
+     .ahmad{
+        color: crimson;
+     }
+        
+     
+     .rank{
+        color: red;
+     }
+
+    .marks{
+        color:rgb(36, 170, 12)
+    }
+
+    .students{
+        color: rgb(20, 134, 20);
+    }
+    main table {
+        width: 100%;
+        border: 1px solid;
+        text-align: center;
+        text-transform: capitalize;
+
+    }
+    main table  td {
+        border: 1px solid black;
+    }
+
+   .pic {
+        position:fixed
+    }
+    
+    .click{
+        text-decoration: none;
+        text: size adjust: 10px
+    }
+
+    
